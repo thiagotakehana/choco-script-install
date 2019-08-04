@@ -74,3 +74,6 @@ choco install windirstat -y
 
 # Microsoft teams
 choco install microsoft-teams -y
+
+# Logitech options
+choco install logitech-options -y
