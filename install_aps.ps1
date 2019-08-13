@@ -26,6 +26,9 @@ choco install git -y
 # Node js
 choco install nodejs -y
 
+# Yarn
+choco install yarn -y
+
 # NuGet Package Explorer
 choco install nugetpackageexplorer -y
 
