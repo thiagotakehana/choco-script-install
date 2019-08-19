@@ -80,3 +80,6 @@ choco install microsoft-teams -y
 
 # Logitech options
 choco install logitech-options -y
+
+# Process explorer
+choco install procexp -y
