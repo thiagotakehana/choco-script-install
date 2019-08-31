@@ -1,6 +1,6 @@
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
 # Script de instalação programas	#
-# script by Takehana				#
+# script by Takehana, Thiago		#
 # v0.0.1 03/08/2019					#
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
 
