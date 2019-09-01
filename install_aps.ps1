@@ -10,6 +10,8 @@
 
 # Visual Studio Code
 choco install vscode -y
+choco install vscode-docker
+choco install vscode-gitlens
 
 # ILSPY decompiler
 choco install ilspy -y
@@ -38,6 +40,9 @@ choco install winscp -y
 
 # Postman
 choco install postman -y
+
+# Docker
+choco install docker-desktop -y
 
 #-----------------------
 # Ferramentas auxiliares
