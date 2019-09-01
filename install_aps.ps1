@@ -1,5 +1,5 @@
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
-# Script de instalação programas	#
+# Script de instalaï¿½ï¿½o programas	#
 # script by Takehana, Thiago		#
 # v0.0.1 03/08/2019					#
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
@@ -22,6 +22,7 @@ choco install tortoisesvn -y
 
 # Git
 choco install git -y
+choco install poshgit -y
 
 # Node js
 choco install nodejs -y
