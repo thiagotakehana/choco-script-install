@@ -89,3 +89,9 @@ choco install logitech-options -y
 
 # Process explorer
 choco install procexp -y
+
+######################
+# Install NPM Packages
+######################
+npm i -g iisexpress-proxy
+npm i -g expo
