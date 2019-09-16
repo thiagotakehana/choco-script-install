@@ -75,8 +75,8 @@ choco install gpmdp -y
 # Paint.net
 choco install paint.net -y
 
-# WindirStat (Explorador de arquivos)
-choco install windirstat -y
+# Tree Size Free
+choco install treesizefree -y
 
 # Office 365 proplus
 # todo configurar instalacao com apps customizado e em portugues
