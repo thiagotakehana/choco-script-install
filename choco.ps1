@@ -38,6 +38,9 @@ choco install postman -y
 # Docker
 choco install docker-desktop -y
 
+# Cmder
+choco install cmder
+
 #-----------------------
 # Ferramentas auxiliares
 #-----------------------
