@@ -46,3 +46,6 @@ choco install procexp -y
 
 # Notion https://www.notion.so/
 choco install notion -y
+
+# LightShot https://app.prntscr.com/pt-br/download.html
+choco install lightshot -y
